@@ -27,11 +27,6 @@
 
 #
 
-### 📊 Statistics
-![kurtoswill's Stats](https://github-readme-stats.vercel.app/api?username=kurtoswill&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-#
-
 <details>
   <summary><h3>🛣️ My Coding Journey</h3></summary>
   I’ve always been fascinated by technology and passionate about building apps. Inspired by talented classmates in my first year of college, I joined AWS Spade as a student developer to sharpen my skills and grow my network. Participating in hackathons and tech events helped me connect with industry leaders and fueled my interest in blockchain and crypto. Believing blockchain is the future, I joined the Base Buildathon with the project NameThat. You can learn more about my journey on my <a href="https://www.linkedin.com/in/kurt-oswill/">LinkedIn</a> profile.
